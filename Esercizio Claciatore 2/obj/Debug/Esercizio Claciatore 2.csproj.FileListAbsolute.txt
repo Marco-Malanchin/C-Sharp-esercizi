@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Esercizio Claciatore 2\obj\Debug\Esercizio Claciatore 2.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Esercizio Claciatore 2\bin\Debug\Esercizio Claciatore 2.exe.config
+C:\Users\Studente\Desktop\Esercizio Claciatore 2\bin\Debug\Esercizio Claciatore 2.exe
+C:\Users\Studente\Desktop\Esercizio Claciatore 2\bin\Debug\Esercizio Claciatore 2.pdb
+C:\Users\Studente\Desktop\Esercizio Claciatore 2\obj\Debug\Esercizio Claciatore 2.exe
+C:\Users\Studente\Desktop\Esercizio Claciatore 2\obj\Debug\Esercizio Claciatore 2.pdb
+C:\Users\Studente\Desktop\Esercizio Claciatore 2\obj\Debug\Esercizio Claciatore 2.csproj.AssemblyReference.cache
