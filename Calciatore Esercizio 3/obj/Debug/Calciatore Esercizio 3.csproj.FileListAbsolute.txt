@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Calciatore Esercizio 3\obj\Debug\Calciatore Esercizio 3.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Calciatore Esercizio 3\obj\Debug\Calciatore Esercizio 3.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Calciatore Esercizio 3\bin\Debug\Calciatore Esercizio 3.exe.config
+C:\Users\Studente\Desktop\Calciatore Esercizio 3\bin\Debug\Calciatore Esercizio 3.exe
+C:\Users\Studente\Desktop\Calciatore Esercizio 3\bin\Debug\Calciatore Esercizio 3.pdb
+C:\Users\Studente\Desktop\Calciatore Esercizio 3\obj\Debug\Calciatore Esercizio 3.exe
+C:\Users\Studente\Desktop\Calciatore Esercizio 3\obj\Debug\Calciatore Esercizio 3.pdb
