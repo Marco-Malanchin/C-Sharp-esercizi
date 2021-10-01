@@ -1,0 +1,7 @@
+C:\Users\Studente\Source\Repos\Esercizio_5_OOP\bin\Debug\Esercizio_5_OOP.exe.config
+C:\Users\Studente\Source\Repos\Esercizio_5_OOP\bin\Debug\Esercizio_5_OOP.exe
+C:\Users\Studente\Source\Repos\Esercizio_5_OOP\bin\Debug\Esercizio_5_OOP.pdb
+C:\Users\Studente\Source\Repos\Esercizio_5_OOP\obj\Debug\Esercizio_5_OOP.csproj.AssemblyReference.cache
+C:\Users\Studente\Source\Repos\Esercizio_5_OOP\obj\Debug\Esercizio_5_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Source\Repos\Esercizio_5_OOP\obj\Debug\Esercizio_5_OOP.exe
+C:\Users\Studente\Source\Repos\Esercizio_5_OOP\obj\Debug\Esercizio_5_OOP.pdb
