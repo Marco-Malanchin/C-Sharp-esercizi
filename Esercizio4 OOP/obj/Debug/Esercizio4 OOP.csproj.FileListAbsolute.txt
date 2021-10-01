@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Esercizio4 OOP\bin\Debug\Esercizio4 OOP.exe.config
+C:\Users\Studente\Desktop\Esercizio4 OOP\bin\Debug\Esercizio4 OOP.exe
+C:\Users\Studente\Desktop\Esercizio4 OOP\bin\Debug\Esercizio4 OOP.pdb
+C:\Users\Studente\Desktop\Esercizio4 OOP\obj\Debug\Esercizio4 OOP.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Esercizio4 OOP\obj\Debug\Esercizio4 OOP.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Esercizio4 OOP\obj\Debug\Esercizio4 OOP.exe
+C:\Users\Studente\Desktop\Esercizio4 OOP\obj\Debug\Esercizio4 OOP.pdb
