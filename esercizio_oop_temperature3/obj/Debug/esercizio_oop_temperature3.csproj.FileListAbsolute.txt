@@ -1,0 +1,7 @@
+C:\Users\Studente\Source\Repos\esercizio_oop_temperature3\bin\Debug\esercizio_oop_temperature3.exe.config
+C:\Users\Studente\Source\Repos\esercizio_oop_temperature3\bin\Debug\esercizio_oop_temperature3.exe
+C:\Users\Studente\Source\Repos\esercizio_oop_temperature3\bin\Debug\esercizio_oop_temperature3.pdb
+C:\Users\Studente\Source\Repos\esercizio_oop_temperature3\obj\Debug\esercizio_oop_temperature3.csproj.AssemblyReference.cache
+C:\Users\Studente\Source\Repos\esercizio_oop_temperature3\obj\Debug\esercizio_oop_temperature3.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Source\Repos\esercizio_oop_temperature3\obj\Debug\esercizio_oop_temperature3.exe
+C:\Users\Studente\Source\Repos\esercizio_oop_temperature3\obj\Debug\esercizio_oop_temperature3.pdb
