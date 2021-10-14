@@ -20,20 +20,21 @@ namespace temperatura2
         //metodi
         public void setTemp()
         {
-            Console.WriteLine("Inserisci le temperatura");
-            t = int.Parse(Console.ReadLine());
+            Console.WriteLine("Inserisci le temperatura"); // chiedo la temperatura misurata
+            t = int.Parse(Console.ReadLine()); //Converto la temperatura in una int
         }
 
         public int minimo()
         {
-            if (min > t)
+            if (min > t) //se la temperatura minima misurata in precedenza è maggiore della temperatura appena misurata, allora la nuova temperatura misurata sarà la temperatura minima.
                 min = t;
             return min;
         }
         public int massimo()
         {
-            if (max < t)
-                max = t;
+            if (max < t)//se la temperatura massima misurata in precedenza è minore della temperatura appena misurata, allora la nuova temperatura misurata sarà la temperatura massima.
+                min = t;
+            max = t;
             return max;
         }
 
@@ -41,15 +42,15 @@ namespace temperatura2
         {
             int n, t = 0;
             temperatura2 k = new temperatura2(t);
-            Console.WriteLine("Quante temperature vuoi inserire?");
-            n = int.Parse(Console.ReadLine());
-            for (int i = 0; i < n; i++)
+            Console.WriteLine("Quante temperature vuoi inserire?");// chiedo quante misurazioni ho fatto 
+            n = int.Parse(Console.ReadLine());// converto il numero delle misurazioni in una int
+            for (int i = 0; i < n; i++)//chiedo le temperature per il numero di volte richieste in precedenza e confronto quale temperatura è la minore e quale è la maggiore
             {
                 k.setTemp();
                 k.minimo();
                 k.massimo();
             }
-            Console.WriteLine("La temperatura massima e' : {0}, quella minima e' : {1}", k.massimo(), k.minimo());
+            Console.WriteLine("La temperatura massima e' : {0}, quella minima e' : {1}", k.massimo(), k.minimo()); // comunico all'utente quali temperature sono le minori e maggiori.
             Console.ReadKey();
         }
     }
