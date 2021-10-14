@@ -1,0 +1,13 @@
+C:\Users\Studente\Desktop\Cellulari_OOP\bin\Debug\netcoreapp3.1\Cellulari_OOP.exe
+C:\Users\Studente\Desktop\Cellulari_OOP\bin\Debug\netcoreapp3.1\Cellulari_OOP.deps.json
+C:\Users\Studente\Desktop\Cellulari_OOP\bin\Debug\netcoreapp3.1\Cellulari_OOP.runtimeconfig.json
+C:\Users\Studente\Desktop\Cellulari_OOP\bin\Debug\netcoreapp3.1\Cellulari_OOP.runtimeconfig.dev.json
+C:\Users\Studente\Desktop\Cellulari_OOP\bin\Debug\netcoreapp3.1\Cellulari_OOP.dll
+C:\Users\Studente\Desktop\Cellulari_OOP\bin\Debug\netcoreapp3.1\Cellulari_OOP.pdb
+C:\Users\Studente\Desktop\Cellulari_OOP\obj\Debug\netcoreapp3.1\Cellulari_OOP.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Cellulari_OOP\obj\Debug\netcoreapp3.1\Cellulari_OOP.AssemblyInfoInputs.cache
+C:\Users\Studente\Desktop\Cellulari_OOP\obj\Debug\netcoreapp3.1\Cellulari_OOP.AssemblyInfo.cs
+C:\Users\Studente\Desktop\Cellulari_OOP\obj\Debug\netcoreapp3.1\Cellulari_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Cellulari_OOP\obj\Debug\netcoreapp3.1\Cellulari_OOP.dll
+C:\Users\Studente\Desktop\Cellulari_OOP\obj\Debug\netcoreapp3.1\Cellulari_OOP.pdb
+C:\Users\Studente\Desktop\Cellulari_OOP\obj\Debug\netcoreapp3.1\Cellulari_OOP.genruntimeconfig.cache
