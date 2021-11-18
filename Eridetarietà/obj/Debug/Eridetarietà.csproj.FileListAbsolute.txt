@@ -1,0 +1,14 @@
+C:\Users\Studente\Source\Repos\Eridetarietà\bin\Debug\Eridetarietà.exe.config
+C:\Users\Studente\Source\Repos\Eridetarietà\bin\Debug\Eridetarietà.exe
+C:\Users\Studente\Source\Repos\Eridetarietà\bin\Debug\Eridetarietà.pdb
+C:\Users\Studente\Source\Repos\Eridetarietà\obj\Debug\Eridetarietà.csproj.AssemblyReference.cache
+C:\Users\Studente\Source\Repos\Eridetarietà\obj\Debug\Eridetarietà.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Source\Repos\Eridetarietà\obj\Debug\Eridetarietà.exe
+C:\Users\Studente\Source\Repos\Eridetarietà\obj\Debug\Eridetarietà.pdb
+C:\Users\Studente\Desktop\Eridetarietà\bin\Debug\Eridetarietà.exe.config
+C:\Users\Studente\Desktop\Eridetarietà\bin\Debug\Eridetarietà.exe
+C:\Users\Studente\Desktop\Eridetarietà\bin\Debug\Eridetarietà.pdb
+C:\Users\Studente\Desktop\Eridetarietà\obj\Debug\Eridetarietà.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Eridetarietà\obj\Debug\Eridetarietà.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Eridetarietà\obj\Debug\Eridetarietà.exe
+C:\Users\Studente\Desktop\Eridetarietà\obj\Debug\Eridetarietà.pdb
