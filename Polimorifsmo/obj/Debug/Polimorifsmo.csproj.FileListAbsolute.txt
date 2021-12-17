@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Polimorifsmo\bin\Debug\Polimorifsmo.exe.config
+C:\Users\Studente\Desktop\Polimorifsmo\bin\Debug\Polimorifsmo.exe
+C:\Users\Studente\Desktop\Polimorifsmo\bin\Debug\Polimorifsmo.pdb
+C:\Users\Studente\Desktop\Polimorifsmo\obj\Debug\Polimorifsmo.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Polimorifsmo\obj\Debug\Polimorifsmo.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Polimorifsmo\obj\Debug\Polimorifsmo.exe
+C:\Users\Studente\Desktop\Polimorifsmo\obj\Debug\Polimorifsmo.pdb
