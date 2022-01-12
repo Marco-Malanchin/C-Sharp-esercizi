@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\Aereii\Aereii\bin\Debug\Aereii.exe.config
+C:\Users\Utente\Desktop\Aereii\Aereii\bin\Debug\Aereii.exe
+C:\Users\Utente\Desktop\Aereii\Aereii\bin\Debug\Aereii.pdb
+C:\Users\Utente\Desktop\Aereii\Aereii\obj\Debug\Aereii.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\Aereii\Aereii\obj\Debug\Aereii.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Aereii\Aereii\obj\Debug\Aereii.exe
+C:\Users\Utente\Desktop\Aereii\Aereii\obj\Debug\Aereii.pdb
